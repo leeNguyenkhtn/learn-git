@@ -1,2 +1,1 @@
-# learn-git
-I am learing how to use GIT
+# Huong da Git co ban
